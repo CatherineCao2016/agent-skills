@@ -5,7 +5,7 @@ Terraform configuration, module, provider, testing, import, stack, and policy
 workflows.
 
 Install an individual Skill using its canonical path from
-[SKILLS.md](../../SKILLS.md):
+[SKILLS.md](https://github.com/hashicorp/agent-skills/blob/main/SKILLS.md):
 
 ```bash
 npx skills add hashicorp/agent-skills/plugins/terraform/skills/terraform-style-guide
@@ -23,5 +23,5 @@ Codex uses the same `plugins/terraform` root through
 manifests are hand-maintained and must expose the same `skills/` directory.
 
 See [Terraform documentation](https://developer.hashicorp.com/terraform) for
-the product source of truth and [SUPPORTED_MODELS.md](../../SUPPORTED_MODELS.md)
+the product source of truth and [SUPPORTED_MODELS.md](https://github.com/hashicorp/agent-skills/blob/main/SUPPORTED_MODELS.md)
 for the model support contract.
